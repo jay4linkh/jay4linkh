@@ -3,7 +3,9 @@
 AI/ML developer and MBA Tech (AI) student, building applied AI products end to end — from model to deployment.
 
 - 🎓 MBA Tech (AI), NMIMS Mumbai (MPSTME) — B.Tech in AI & Data Engineering
-- 📫 jay4link@gmail.com
+- 🛠️ Currently building **PulseAI**, an automated AI newsletter/digest app (email, WhatsApp, and web dashboard delivery)
+- 🩺 Also building a **Diabetic Retinopathy severity grading** desktop app using a ConvNeXt + ResNet hybrid model
+- 💼 Former backend/frontend intern at Restaverse, Mumbai — built multi-restaurant data scrapers and a dynamic React form builder
 
 ---
 
@@ -36,12 +38,17 @@ AI/ML developer and MBA Tech (AI) student, building applied AI products end to e
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=flat&logo=bloomberg&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay4linkh&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay4linkh&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay4linkh&layout=compact&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay4linkh&hide_border=true)
 
@@ -52,4 +59,3 @@ AI/ML developer and MBA Tech (AI) student, building applied AI products end to e
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-jay4linkh-181717?style=flat&logo=github)](https://github.com/jay4linkh)
-[![Email](https://img.shields.io/badge/Email-jay4link%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jay4link@gmail.com)
