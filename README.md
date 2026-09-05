@@ -48,8 +48,8 @@ AI/ML developer and MBA Tech (AI) student, building applied AI products end to e
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay4linkh&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay4linkh&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats-dusky-five-28.vercel.app/api?username=jay4linkh&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats-dusky-five-28.vercel.app/api/top-langs/?username=jay4linkh&layout=compact&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay4linkh&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jay4linkh&hide_border=true)
