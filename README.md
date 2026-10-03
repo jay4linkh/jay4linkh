@@ -52,7 +52,7 @@ AI/ML developer and MBA Tech (AI) student, building applied AI products end to e
 ![Top Languages](https://github-readme-stats-dusky-five-28.vercel.app/api/top-langs/?username=jay4linkh&layout=compact&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jay4linkh&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jay4linkh&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph-lyart-five.vercel.app/graph?username=jay4linkh&theme=github-dark&hide_border=true)
 
 ---
 
