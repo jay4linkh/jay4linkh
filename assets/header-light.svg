@@ -1,9 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190">
-  <rect width="880" height="190" rx="14" fill="#FBFAF7"/>
-  <rect x="0.5" y="0.5" width="879" height="189" rx="13.5" fill="none" stroke="#E2E0D7"/>
-  <circle cx="44" cy="46" r="4" fill="#2563EB"/>
-  <text x="58" y="51" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#6A6862">building PulseAI · open to AI/ML internships</text>
-  <text x="40" y="118" font-family="'Inter Tight','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#161614">Jay Gupta</text>
-  <text x="42" y="152" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#6A6862">AI/ML engineer. Raw data to working product, with numbers that hold up.</text>
-  <text x="840" y="152" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#2563EB">NMIMS MPSTME · Mumbai</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240">
+  <defs><clipPath id="c"><rect width="880" height="240" rx="14"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="880" height="240" fill="#FBFAF7"/>
+    <circle cx="790" cy="62" r="16" fill="none" stroke="#6A6862" stroke-opacity=".5"/>
+    <circle cx="784" cy="57" r="16" fill="#FBFAF7"/>
+    <circle cx="44" cy="46" r="4" fill="#2563EB">
+      <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="51" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#6A6862">building PulseAI · open to AI/ML internships</text>
+    <text x="40" y="116" font-family="'Inter Tight','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#161614">Jay Gupta</text>
+    <text x="42" y="148" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#6A6862">AI/ML engineer. Raw data to working product, with numbers that hold up.</text>
+    <text x="840" y="148" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#2563EB">NMIMS MPSTME · Mumbai</text>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-120 0" to="1000 0" dur="42s" repeatCount="indefinite"/>
+      <g transform="translate(0 203)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" values="-4;3;-4" dur="4.2s" repeatCount="indefinite"/>
+          <line x1="0" y1="0" x2="0" y2="-40" stroke="#161614" stroke-width="1.6"/>
+          <path d="M2 -38 L2 -6 L26 -6 Z" fill="#2563EB"/>
+          <path d="M-2 -33 L-2 -6 L-19 -6 Z" fill="#161614" fill-opacity=".85"/>
+          <path d="M0 -40 L9 -37 L0 -34 Z" fill="#6A6862"/>
+          <path d="M-26 -3 L26 -3 L18 7 L-18 7 Z" fill="#161614"/>
+        </g>
+      </g>
+    </g>
+
+    <path d="M0 206 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0 q20.0 -3 40.0 0 t40.0 0" fill="none" stroke="#2563EB" stroke-opacity=".55" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-80 0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 219 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0 q30.0 -2.5 60.0 0 t60.0 0" fill="none" stroke="#6A6862" stroke-opacity=".35" stroke-width="1.2">
+      <animateTransform attributeName="transform" type="translate" from="-120 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 231 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0 q40.0 -2 80.0 0 t80.0 0" fill="none" stroke="#6A6862" stroke-opacity=".2" stroke-width="1">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-160 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <rect x="0.5" y="0.5" width="879" height="239" rx="13.5" fill="none" stroke="#E2E0D7"/>
 </svg>
