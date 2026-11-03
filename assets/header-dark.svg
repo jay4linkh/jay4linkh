@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190">
+  <rect width="880" height="190" rx="14" fill="#141413"/>
+  <rect x="0.5" y="0.5" width="879" height="189" rx="13.5" fill="none" stroke="#2C2B27"/>
+  <circle cx="44" cy="46" r="4" fill="#4ADE80"/>
+  <text x="58" y="51" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#A19E95">building PulseAI · open to AI/ML internships</text>
+  <text x="40" y="118" font-family="'Inter Tight','Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#F0EEE6">Jay Gupta</text>
+  <text x="42" y="152" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="17" fill="#A19E95">AI/ML engineer. Raw data to working product, with numbers that hold up.</text>
+  <text x="840" y="152" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" fill="#4ADE80">NMIMS MPSTME · Mumbai</text>
+</svg>
